@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 1rem;
+  line-height: 1.4em;
+  width: 98%;
+  margin: 40px auto;
+  background-color: #E4FFFF;
+}
+
+header {
+  text-align: center;
+}
+
+.row {
+  margin: 10px 0;
+}
+
+.vehicule {
+  margin: 2rem 0;
+}
+
+.road {
+  height: 30px;
+  background-color: #88d6e7;
+}
+
+.infos {
+  color: black;
+  font-size: 1.2rem;
+  padding: 5px 10px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input[name="speed"] {
+  width: 50px;
+}
+
+.btn {
+  padding: 4px 10px;
+  border-radius: 5px;
+  margin: 0 5px;
+  border: none;
+}
+
+.btnReset {
+  background-color: red;
+  color: white;
+}
+
+.btnDrive {
+  background-color: green;
+  color: white;
+}
+
+.btnColor {
+  background-color: blue;
+  color: white;
+}
